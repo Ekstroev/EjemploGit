@@ -6,6 +6,7 @@ public class EjemploGit {
 		// TODO Auto-generated method stub
 		for (int i = 25; i > 0; i --) {
 			System.out.println("Hola mundo");
+			System.out.println("Soy un clon");
 		}
 
 	}
